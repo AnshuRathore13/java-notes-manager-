@@ -1,4 +1,4 @@
-[project link](https://github.com/nehalfating03/java-notes-manager)
+[project link](https://github.com/AnshuRathore13/java-notes-manager-)
 
 # 📝 Password-Protected Notes Application (Java)
 
