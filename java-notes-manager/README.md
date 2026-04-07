@@ -178,15 +178,14 @@ notesapp/
 
 ---
 
- Nehal Fating: Database Developer (JDBC & MySQL)
- 
-• Designed and created the MySQL database schema including users and notes 
-tables.  
-• Established database connectivity using JDBC (Java Database Connectivity).  
-• Implemented CRUD operations using PreparedStatement and ResultSet.  
-• Ensured efficient query execution and data retrieval.  
- • Managed foreign key relationships between users and notes.  
-• Created and tested the schema.sql file for easy database setup.
+My Contribution
+Backend Developer (Authentication & Logic)
+• Developed the user authentication system including registration and login functionalities.
+• Implemented password hashing (SHA-256) to ensure secure storage of user credentials.
+• Wrote backend logic for validating users during login.
+• Managed interaction between UI and database using controller classes.
+• Handled error cases such as invalid login, duplicate usernames, and empty inputs.
+• Ensured secure and efficient processing of user data.
 
 ---
 
