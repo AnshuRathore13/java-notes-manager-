@@ -1,4 +1,4 @@
-[project link](https://github.com/nehalfating03/java-notes-manager)
+[project link](https://github.com/AnshuRathore13/java-notes-manager-)
 
 
 # 📝 Password-Protected Notes Application (Java)
@@ -181,7 +181,21 @@ notesapp/
 
 ##  Author
 
-**Suyogya**
+**Anshu**
+
+---
+
+##  My Contribution
+  Backend Developer (Authentication & Logic) 
+• Developed the user authentication system including registration and login 
+  functionalities.  
+• Implemented password hashing (SHA-256) to ensure secure storage of user 
+  credentials.  
+• Wrote backend logic for validating users during login.  
+• Managed interaction between UI and database using controller classes.  
+• Handled error cases such as invalid login, duplicate usernames, and empty 
+  inputs.  
+• Ensured secure and efficient processing of user data. 
 
 ---
 
